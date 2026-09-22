@@ -7,7 +7,7 @@ on:
        - main
      paths:
        - 'src/agents/trail_guide_agent/**'
-  workflow_dispatch:
+workflow_dispatch:
 
 permissions:
   contents: read
